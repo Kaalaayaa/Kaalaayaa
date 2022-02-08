@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on improving my skillset and looking for a job
 
-- 🌱 I’m currently learning TailwindCss, TypeScript
+- 🌱 I’m currently learning TailwindCss, TypeScript, Angular
 
 - 😄 Pronouns: She/her
 
