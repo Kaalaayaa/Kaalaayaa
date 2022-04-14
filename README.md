@@ -30,11 +30,13 @@ Here are some ideas to get you started:
 
 ### Project Links
 
--To Do List: https://pedantic-mcclintock-127a20.netlify.app/
+-To Do List: https://to-do-list-kalaya.netlify.app/
 
 -Events Website: https://whattodooo.herokuapp.com/
 
--Time tracking dashboard: https://nifty-chandrasekhar-906cb0.netlify.app
+-Unofficial Backstage-Talks website: https://unofficial-backstage-talks.netlify.app/
+
+-Time tracking dashboard: https://time-tracking-dashboard-kalaya.netlify.app/
 
 
 ### Languages and Tools:
