@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 - 📚 I recently graduated from a 1 year training (MERN stack)
 
-- 🔭 I’m currently working on improving my skillset and looking for a job
+- 🔭 I’m currently doing an internship at Previmo/RemiHealth and working on improving my skillset
 
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning TypeScript and Angular
 
 - 😄 Pronouns: She/her
 
