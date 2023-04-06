@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 📚 I recently graduated from a 1 year training (MERN stack)
 
-- 🔭 I’m currently doing an internship at Previmo/RemiHealth and working on improving my skillset
+- 🔭 I’m currently working as a Junior web developer at Bitskin in Berlin, Germany and working on improving my skillset with personal projects
 
 - 🌱 I’m currently learning TypeScript and Angular
 
@@ -30,13 +30,20 @@ Here are some ideas to get you started:
 
 ### Project Links
 
--To Do List: https://to-do-list-kalaya.netlify.app/
+- Previmo: Medical website 
+
+- Ecommerce: 
 
 -Events Website: https://whattodooo.herokuapp.com/
 
 -Unofficial Backstage-Talks website: https://unofficial-backstage-talks.netlify.app/
 
+
+## Small challenges
+
 -Time tracking dashboard: https://time-tracking-dashboard-kalaya.netlify.app/
+
+-To Do List: https://to-do-list-kalaya.netlify.app/
 
 
 ### Languages and Tools:
