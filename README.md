@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 ### Project Links
 
-- Previmo: Medical website 
+-Previmo, Medical website made with Webflow : https://www.previmo.de/
 
-- Ecommerce: 
+-Ecommerce made with sanity and stripe: https://ecommerce-sanity-stripe-bice-pi.vercel.app/
 
 -Events Website: https://whattodooo.herokuapp.com/
 
