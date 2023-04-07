@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 -Unofficial Backstage-Talks website: https://unofficial-backstage-talks.netlify.app/
 
 
-## Small challenges
+### Small challenges
 
 -Time tracking dashboard: https://time-tracking-dashboard-kalaya.netlify.app/
 
