@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 ### Project Links
 
+-Responsive plants website made with HTML, CSS and Javascript: https://plants-responsive-website.vercel.app/
+
 -Previmo, Medical website made with Webflow : https://www.previmo.de/
 
 -Ecommerce made with sanity and stripe: https://ecommerce-sanity-stripe-bice-pi.vercel.app/
