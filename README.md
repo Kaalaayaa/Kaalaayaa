@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: kalaya.chatelain@gmail.com or https://www.linkedin.com/in/kalaya-chatelain-9206aa221/
 
+- My portfolio : 
+
  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47pkkpxlegs44r1fbegu74ltscfjtpltyxb5in7i29&rid=giphy.gif&ct=s" width="60" height ="70">
 
 ### Project Links
