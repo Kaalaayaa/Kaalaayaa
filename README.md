@@ -1,17 +1,19 @@
 # Kalaya Chatelain
 
 ## About Me 📚
-Full-Stack Developer with previous junior industry experience in Berlin, currently advancing my software engineering training at **42 Berlin**, a project-based school focused on algorithms, systems programming, and low-level development in C.
+Full-Stack Developer with previous junior industry experience in Berlin, currently advancing my software engineering training at **42 Berlin**, a project-based school focused on algorithms, systems programming, low-level development in C and peer learning.
 
-I build web applications with React/Next.js and Node.js, and I’m currently strengthening my computer science fundamentals to deliver scalable, maintainable software.
+I have previous experience building web applications with React and Next.js, and I’m eager to apply these skills again through personal and collaborative projects. At 42, I’m also learning C and algorithmic exercises while strengthening my overall software engineering abilities.
 
 ---
 
 ## Current Focus 💻
-- Systems programming in C  
-- Algorithms & data structures  
-- TypeScript and Angular proficiency  
-- Clean, scalable backend architecture  
+- Algorithms & data structures
+- Refreshing and expanding React and Next.js skills  
+- TypeScript best practices  
+- Full-stack web development (frontend + backend)  
+- Learning C and low-level programming concepts at 42  
+- Building clean, maintainable, and reusable code
 
 ---
 
@@ -32,13 +34,16 @@ Focus: API integration, dynamic content, payment workflow.
 
 **Medical Website (Previmo)**  
 Built with Webflow for a production client.  
-Focus: Responsive design, CMS integration.
+Focus: Responsive design and CMS integration.
 
-**Admin Dashboard (Angular + Node.js + MariaDB)**  
+**Admin Dashboard (Node.js + MariaDB)**  
 Full-stack CRUD system with authentication and database integration.  
 
-**C Projects (42 Berlin)**  
-Exercises in memory management, file handling, and Unix processes.  
+**42 Berlin Projects**  
+Programming exercises and projects in C, algorithmic problem-solving, and collaborative peer-based coding challenges.
+
+**Upcoming React/Next.js Projects**  
+Planning personal projects to refresh and showcase frontend skills — examples to be added soon. 
 
 ---
 
@@ -47,38 +52,6 @@ LinkedIn: [linkedin.com/in/kalaya-chatelain-9206aa221](https://www.linkedin.com/
 Portfolio: [kalaya.vercel.app](https://kalaya.vercel.app)  
 Email: kalaya.chatelain@gmail.com
 
-
-<h2 align="center">Hi, I'm  Kalaya 👋</h2>
-
-<!--
-**Kaalaayaa/Kaalaayaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-- 📚 I recently graduated from a 1 year training (MERN stack)
-
-- 🔭 I’m currently working as a Junior web developer at Bitskin in Berlin, Germany and working on improving my skillset with personal projects
-
-- 🌱 I’m currently learning TypeScript and Angular
-
-- 😄 Pronouns: She/her
-
-- 📫 How to reach me: kalaya.chatelain@gmail.com or https://www.linkedin.com/in/kalaya-chatelain-9206aa221/
-
-- My portfolio : https://kalaya.vercel.app/
-
- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47pkkpxlegs44r1fbegu74ltscfjtpltyxb5in7i29&rid=giphy.gif&ct=s" width="60" height ="70">
 
 ### Project Links
 
@@ -99,7 +72,3 @@ Here are some ideas to get you started:
 
 -To Do List: https://to-do-list-kalaya.netlify.app/
 
-
-### Languages and Tools:
-
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
