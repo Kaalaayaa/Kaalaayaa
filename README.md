@@ -32,7 +32,8 @@ I have previous experience building web applications with React and Next.js, and
 A Unix shell implemented in C as part of the 42 Berlin curriculum.  
 Focus: Command parsing, process handling, and low-level programming fundamentals.
 
-**Previmo (Internship Project)**  
+**Previmo (Internship Project)**
+[https://www.previmo.de/](https://www.previmo.de/)  
 Contributed to the company website during my internship.  
 Focus: Frontend development, responsive design, and client-facing implementation.
 
