@@ -55,7 +55,6 @@ Programming exercises and projects in C, algorithmic problem-solving, and collab
 
 ## Contact 📫
 LinkedIn: [linkedin.com/in/kalaya-chatelain-9206aa221](https://www.linkedin.com/in/kalaya-chatelain-9206aa221)  
-Portfolio: [kalaya.vercel.app](https://kalaya.vercel.app)  
-Email: kalaya.chatelain@gmail.com
+Email: kalaya.chatelain@yahoo.fr
 
 
