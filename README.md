@@ -26,24 +26,30 @@ I have previous experience building web applications with React and Next.js, and
 
 ---
 
-## Selected Projects 🚀
+## Projects 🚀
 
-**E-Commerce Platform**  
-Full-stack application using Next.js, Sanity CMS, and Stripe integration.  
-Focus: API integration, dynamic content, payment workflow.
+**MiniShell (42 Berlin)**  
+A Unix shell implemented in C as part of the 42 Berlin curriculum.  
+Focus: Command parsing, process handling, and low-level programming fundamentals.
 
-**Medical Website (Previmo)**  
-Built with Webflow for a production client.  
-Focus: Responsive design and CMS integration.
+**Previmo (Internship Project)**  
+Contributed to the company website during my internship.  
+Focus: Frontend development, responsive design, and client-facing implementation.
 
-**Admin Dashboard (Node.js + MariaDB)**  
-Full-stack CRUD system with authentication and database integration.  
+**Berlin Events Website (Ongoing Project)**  
+Rebuilding a personal events platform using React/Next.js and modern frontend practices.  
+Focus: Full-stack development, frontend interactivity, backend API integration, and database usage.
 
 **42 Berlin Projects**  
 Programming exercises and projects in C, algorithmic problem-solving, and collaborative peer-based coding challenges.
 
-**Upcoming React/Next.js Projects**  
-Planning personal projects to refresh and showcase frontend skills — examples to be added soon. 
+### Small challenges
+
+-Unofficial Backstage-Talks website: https://unofficial-backstage-talks.netlify.app/
+
+-Time tracking dashboard: https://time-tracking-dashboard-kalaya.netlify.app/
+
+-To Do List: https://to-do-list-kalaya.netlify.app/*/
 
 ---
 
@@ -52,23 +58,4 @@ LinkedIn: [linkedin.com/in/kalaya-chatelain-9206aa221](https://www.linkedin.com/
 Portfolio: [kalaya.vercel.app](https://kalaya.vercel.app)  
 Email: kalaya.chatelain@gmail.com
 
-
-/*### Project Links
-
--Responsive plants website made with HTML, CSS and Javascript: https://plants-responsive-website.vercel.app/
-
--Previmo, Medical website made with Webflow : https://www.previmo.de/
-
--Ecommerce made with sanity and stripe: https://ecommerce-sanity-stripe-bice-pi.vercel.app/
-
--Events Website: https://whattodooo.herokuapp.com/
-
--Unofficial Backstage-Talks website: https://unofficial-backstage-talks.netlify.app/
-
-
-### Small challenges
-
--Time tracking dashboard: https://time-tracking-dashboard-kalaya.netlify.app/
-
--To Do List: https://to-do-list-kalaya.netlify.app/*/
 
