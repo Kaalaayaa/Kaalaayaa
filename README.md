@@ -1,3 +1,53 @@
+# Kalaya Chatelain
+
+## About Me 📚
+Full-Stack Developer with previous junior industry experience in Berlin, currently advancing my software engineering training at **42 Berlin**, a project-based school focused on algorithms, systems programming, and low-level development in C.
+
+I build web applications with React/Next.js and Node.js, and I’m currently strengthening my computer science fundamentals to deliver scalable, maintainable software.
+
+---
+
+## Current Focus 💻
+- Systems programming in C  
+- Algorithms & data structures  
+- TypeScript and Angular proficiency  
+- Clean, scalable backend architecture  
+
+---
+
+## Technical Stack 🛠️
+**Languages:** C, JavaScript (ES6+), TypeScript  
+**Frontend:** React, Next.js, Angular, Vue.js, HTML, CSS, Tailwind  
+**Backend:** Node.js, Express  
+**Databases:** MongoDB, MariaDB  
+**Tools & Deployment:** Git, GitHub, Vercel  
+
+---
+
+## Selected Projects 🚀
+
+**E-Commerce Platform**  
+Full-stack application using Next.js, Sanity CMS, and Stripe integration.  
+Focus: API integration, dynamic content, payment workflow.
+
+**Medical Website (Previmo)**  
+Built with Webflow for a production client.  
+Focus: Responsive design, CMS integration.
+
+**Admin Dashboard (Angular + Node.js + MariaDB)**  
+Full-stack CRUD system with authentication and database integration.  
+
+**C Projects (42 Berlin)**  
+Exercises in memory management, file handling, and Unix processes.  
+
+---
+
+## Contact 📫
+LinkedIn: [linkedin.com/in/kalaya-chatelain-9206aa221](https://www.linkedin.com/in/kalaya-chatelain-9206aa221)  
+Portfolio: [kalaya.vercel.app](https://kalaya.vercel.app)  
+Email: kalaya.chatelain@gmail.com
+
+
 <h2 align="center">Hi, I'm  Kalaya 👋</h2>
 
 <!--
