@@ -53,7 +53,7 @@ Portfolio: [kalaya.vercel.app](https://kalaya.vercel.app)
 Email: kalaya.chatelain@gmail.com
 
 
-### Project Links
+/*### Project Links
 
 -Responsive plants website made with HTML, CSS and Javascript: https://plants-responsive-website.vercel.app/
 
@@ -70,5 +70,5 @@ Email: kalaya.chatelain@gmail.com
 
 -Time tracking dashboard: https://time-tracking-dashboard-kalaya.netlify.app/
 
--To Do List: https://to-do-list-kalaya.netlify.app/
+-To Do List: https://to-do-list-kalaya.netlify.app/*/
 
