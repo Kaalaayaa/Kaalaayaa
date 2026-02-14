@@ -50,7 +50,7 @@ Programming exercises and projects in C, algorithmic problem-solving, and collab
 
 -Time tracking dashboard: https://time-tracking-dashboard-kalaya.netlify.app/
 
--To Do List: https://to-do-list-kalaya.netlify.app/*/
+-To Do List: https://to-do-list-kalaya.netlify.app/
 
 ---
 
