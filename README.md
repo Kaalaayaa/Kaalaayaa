@@ -37,6 +37,10 @@ Focus: Command parsing, process handling, and low-level programming fundamentals
 Contributed to the company website during my internship.  
 Focus: Frontend development, responsive design, and client-facing implementation.
 
+**E-Commerce Platform**  
+Full-stack application using Next.js, Sanity CMS, and Stripe integration.  
+Focus: API integration, dynamic content, payment workflow.)
+
 **Berlin Events Website (Ongoing Project)**  
 Rebuilding a personal events platform using React/Next.js and modern frontend practices.  
 Focus: Full-stack development, frontend interactivity, backend API integration, and database usage.
