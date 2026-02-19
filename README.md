@@ -39,6 +39,7 @@ Focus: Frontend development, responsive design, and client-facing implementation
 
 **E-Commerce Platform**  
 [https://ecommerce-sanity-stripe-bice-pi.vercel.app](https://ecommerce-sanity-stripe-bice-pi.vercel.app)
+
 Full-stack application using Next.js, Sanity CMS, and Stripe integration.  
 Focus: API integration, dynamic content, payment workflow.)
 
