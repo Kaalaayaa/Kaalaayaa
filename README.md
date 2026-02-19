@@ -37,9 +37,10 @@ Focus: Command parsing, process handling, and low-level programming fundamentals
 Contributed to the company website during my internship.  
 Focus: Frontend development, responsive design, and client-facing implementation.
 
-**E-Commerce Platform**  [https://ecommerce-sanity-stripe-bice-pi.vercel.app](https://ecommerce-sanity-stripe-bice-pi.vercel.app)
+**E-Commerce Platform** 
+https://ecommerce-sanity-stripe-bice-pi.vercel.app
 Full-stack application using Next.js, Sanity CMS, and Stripe integration.  
-Focus: API integration, dynamic content, payment workflow.)
+Focus: API integration, dynamic content, payment workflow.
 
 **Berlin Events Website (Ongoing Project)**  
 Rebuilding a personal events platform using React/Next.js and modern frontend practices.  
