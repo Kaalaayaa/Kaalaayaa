@@ -10,7 +10,7 @@ I have previous experience building web applications with React and Next.js, and
 ## Current Focus 💻
 - Algorithms & data structures
 - Refreshing and expanding React and Next.js skills  
-- TypeScript best practices  
+- improving TypeScript skills
 - Full-stack web development (frontend + backend)  
 - Learning C and low-level programming concepts at 42  
 - Building clean, maintainable, and reusable code
@@ -18,7 +18,7 @@ I have previous experience building web applications with React and Next.js, and
 ---
 
 ## Technical Stack 🛠️
-**Languages:** C, JavaScript (ES6+), TypeScript  
+**Languages:** C, JavaScript, TypeScript  
 **Frontend:** React, Next.js, Angular, Vue.js, HTML, CSS, Tailwind  
 **Backend:** Node.js, Express  
 **Databases:** MongoDB, MariaDB  
