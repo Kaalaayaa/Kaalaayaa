@@ -1,66 +1,37 @@
-# Kalaya Chatelain
+# Hi, I'm Kalaya
 
-## About Me 📚
-Full-Stack Developer with previous junior industry experience in Berlin, currently advancing my software engineering training at **42 Berlin**, a project-based school focused on algorithms, systems programming, low-level development in C and peer learning.
+Full-Stack Developer with 2+ years of professional experience in Berlin, currently advancing at **42 Berlin** — a project-based engineering school focused on algorithms, systems programming and peer learning.
 
-I have previous experience building web applications with React and Next.js, and I’m eager to apply these skills again through personal and collaborative projects. At 42, I’m also learning C and algorithmic exercises while strengthening my overall software engineering abilities.
+I have worked in startup environments building frontend and backend features with React, Next.js and Node.js. I'm now deepening my technical foundation through systems programming in C, which has made me a more precise and rigorous developer overall.
 
----
-
-## Current Focus 💻
-- Algorithms & data structures
-- Refreshing and expanding React and Next.js skills  
-- improving TypeScript skills
-- Full-stack web development (frontend + backend)  
-- Learning C and low-level programming concepts at 42  
-- Building clean, maintainable, and reusable code
+I speak French, English and German.
 
 ---
 
-## Technical Stack 🛠️
-**Languages:** C, JavaScript, TypeScript  
-**Frontend:** React, Next.js, Angular, Vue.js, HTML, CSS, Tailwind  
-**Backend:** Node.js, Express  
-**Databases:** MongoDB, MariaDB  
-**Tools & Deployment:** Git, GitHub, Vercel  
+## What I work with
+
+**Frontend** — JavaScript, TypeScript, React, Next.js, Angular, Vue.js, Tailwind  
+**Backend** — Node.js, Express, REST APIs  
+**Databases** — MongoDB, MariaDB  
+**Systems** — C (algorithms, memory management, process handling)  
+**Tools** — Git, Vercel, Sanity CMS, Webflow, Figma
 
 ---
 
-## Projects 🚀
+## Projects
 
-**MiniShell (42 Berlin)**  
-A Unix shell implemented in C as part of the 42 Berlin curriculum.  
-Focus: Command parsing, process handling, and low-level programming fundamentals.
+**[minishell](https://github.com/Kaalaayaa/minishell_42)** — A fully functional Unix shell written in C from scratch. Implementing this meant understanding how operating systems actually work — process creation, pipes, signal handling, memory management. One of the hardest and most rewarding things I've built.
 
-**Previmo (Internship Project)**
-[https://www.previmo.de/](https://www.previmo.de/)  
-Contributed to the company website during my internship.  
-Focus: Frontend development, responsive design, and client-facing implementation.
+**[cub3D](https://github.com/Kaalaayaa/cub3D)** — A 3D raycasting engine in C, inspired by Wolfenstein 3D. No game engine, just math and C.
 
-**E-Commerce Platform** 
-https://ecommerce-sanity-stripe-bice-pi.vercel.app  
-Full-stack application using Next.js, Sanity CMS, and Stripe integration.  
-Focus: API integration, dynamic content, payment workflow.
+**[Previmo](https://www.previmo.de/)** — Client-facing website built during my internship at Remi Health using Next.js and Sanity CMS. Fully responsive, live in production.
 
-**Berlin Events Website (Ongoing Project)**  
-Rebuilding a personal events platform using React/Next.js and modern frontend practices.  
-Focus: Full-stack development, frontend interactivity, backend API integration, and database usage.
+**[E-Commerce Platform](https://ecommerce-sanity-stripe-bice-pi.vercel.app)** — Full-stack shop built with Next.js, Sanity CMS and Stripe integration. Live and deployed.
 
-**42 Berlin Projects**  
-Programming exercises and projects in C, algorithmic problem-solving, and collaborative peer-based coding challenges.
-
-### Small challenges
-
--Unofficial Backstage-Talks website: https://unofficial-backstage-talks.netlify.app/
-
--Time tracking dashboard: https://time-tracking-dashboard-kalaya.netlify.app/
-
--To Do List: https://to-do-list-kalaya.netlify.app/
+**[Berlin Events](https://github.com/Kaalaayaa)** — Ongoing personal project: a full-stack events platform for Berlin built with Next.js, a REST API and a database.
 
 ---
 
-## Contact 📫
-LinkedIn: [linkedin.com/in/kalaya-chatelain-9206aa221](https://www.linkedin.com/in/kalaya-chatelain-9206aa221)  
-Email: kalaya.chatelain@yahoo.fr
-
+📫 kalaya.chatelain@gmail.com  
+💼 [LinkedIn](https://linkedin.com/in/kalaya-chatelain-9206aa221)
 
