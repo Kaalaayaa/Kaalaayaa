@@ -12,13 +12,16 @@ I speak French, English and German.
 
 **Frontend** — JavaScript, TypeScript, React, Next.js, Angular, Vue.js, Tailwind  
 **Backend** — Node.js, Express, REST APIs  
-**Databases** — MongoDB, MariaDB  
+**Databases** — MongoDB, MariaDB, PostgreSQL  
+**ORM** — Prisma    
 **Systems** — C (algorithms, memory management, process handling)  
 **Tools** — Git, Vercel, Sanity CMS, Webflow, Figma
 
 ---
 
 ## Projects
+
+**[no/fomo](https://nofomo-pi.vercel.app/)** — Full-stack events platform for Berlin's queer and FLINTA* scene. Built with Next.js 14, TypeScript, PostgreSQL and Prisma. Filterable events grid, event detail pages, submit form, real database. Live and deployed.
 
 **[minishell](https://github.com/Kaalaayaa/minishell_42)** — A fully functional Unix shell written in C from scratch. Implementing this meant understanding how operating systems actually work — process creation, pipes, signal handling, memory management. One of the hardest and most rewarding things I've built.
 
@@ -27,8 +30,6 @@ I speak French, English and German.
 **[Previmo](https://www.previmo.de/)** — Client-facing website built during my internship at Remi Health using Next.js and Sanity CMS. Fully responsive, live in production.
 
 **[E-Commerce Platform](https://ecommerce-sanity-stripe-bice-pi.vercel.app)** — Full-stack shop built with Next.js, Sanity CMS and Stripe integration. Live and deployed.
-
-**[Berlin Events](https://github.com/Kaalaayaa)** — Ongoing personal project: a full-stack events platform for Berlin built with Next.js, a REST API and a database.
 
 ---
 
